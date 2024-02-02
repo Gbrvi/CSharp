@@ -1,0 +1,15 @@
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\bin\Debug\net8.0\SistemaMulta.exe
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\bin\Debug\net8.0\SistemaMulta.dll
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.AssemblyInfoInputs.cache
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.AssemblyInfo.cs
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.csproj.CoreCompileInputs.cache
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.sourcelink.json
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.dll
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\refint\SistemaMulta.dll
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.pdb
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\bin\Debug\net8.0\SistemaMulta.deps.json
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\bin\Debug\net8.0\SistemaMulta.runtimeconfig.json
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\bin\Debug\net8.0\SistemaMulta.pdb
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\SistemaMulta.genruntimeconfig.cache
+C:\Users\gvalm\CSharp\Exercises\SistemaMulta\obj\Debug\net8.0\ref\SistemaMulta.dll
